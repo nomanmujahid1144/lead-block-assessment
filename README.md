@@ -132,3 +132,5 @@ Open [http://localhost:3000](http://localhost:3000) and create an account.
 ---
 
 **Contact:** Noman Mujahid - nomanmujahid.cs@gmail.com
+**Portfolio:** [https://nomanmujahid.dev](https://nomanmujahid.dev)  
+**Upwork:** [https://www.upwork.com/freelancers/nomanmujahid](https://www.upwork.com/freelancers/nomanmujahid)
